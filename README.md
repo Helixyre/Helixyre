@@ -1,5 +1,5 @@
 <!-- Profile README for @Helixyre -->
-<h1 align="center">Salut, moi c’est Léa (aka Helixyre) 👋</h1>
+<h1 align="center">Salut, moi c’est Léa (aka Poulinière) 👋</h1>
 <p align="center">
   Étudiante en BTS Cybersécurité, Informatique et Réseaux, Électronique (Électronique et Réseaux) • Python • C/C++ • KiCad • Linux
 </p>
